@@ -2,7 +2,7 @@
 Single Cell RNA Clustering Competition
 
 
-Final Competition - Prabhleen Singh ( 202103594 ) ( x2021dtm@stfx.ca )
+Final Competition - Team Underdogs
 
 Prerequisites:
 
