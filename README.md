@@ -13,9 +13,9 @@ OS: Windows 10
 
 How to execute:
 
-Place the files "data_tr.txt" and "data_ts.txt" in the same folder as the notebooks.
+Place the files "data_tr.txt", "gene_names.txt", "data_ts.txt" in the same folder as the notebooks.
 
-The first notebook named "Competition Preprocessing" is well organized to be run step by step in Jupyter. It also has comments explaining what is going on in the cell below.
+Open first notebook named "Competition Preprocessing", it is well organized to be run step by step in Jupyter. It also has comments explaining what is going on in the cell below.
 The notebook generates a CSV file named "final_features.csv" which is the preprocessed data that can be used to train models.
 
 The notebook also tests three models KMeans, Birch and Spectral Clustering and displays the silhouette score.
